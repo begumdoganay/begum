@@ -1,0 +1,2 @@
+# begum
+ilk deneyiş 
