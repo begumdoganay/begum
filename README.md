@@ -1,6 +1,10 @@
 # begum
+
+
 using System;
 
+nameSpace HadiDüldülBirinciHafta
+{
 class Program
 {
     static void Main(string[] args)
@@ -16,4 +20,5 @@ class Program
 
         Console.ReadLine();
     }
+  }
 }
